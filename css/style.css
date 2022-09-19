@@ -19019,3 +19019,10 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .text-color-verde{
 	color: #084545!important;
 }
+
+.bg-contacto-img{
+	background-image: url(/images/load-imgs/FONDO-1.png)!important;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
